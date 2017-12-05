@@ -1,0 +1,5 @@
+{
+  "deviceId": { "$number": { "min": 101, "max": 500 }},
+  "value": { "$number": { "min": 500, "max": 2500 }},
+  "location": { "$point": { "long_lim": [-118.668469, -82.062023], "lat_lim": [32.924436, 41.679986]}}
+}

@@ -1,0 +1,4 @@
+{
+  "deviceId": { "$number": { "min": 1, "max": 100 }},
+  "value": { "$number": { "min": 500, "max": 2500 }}
+}
