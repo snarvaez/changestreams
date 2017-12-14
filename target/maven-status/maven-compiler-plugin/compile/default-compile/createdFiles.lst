@@ -1,6 +1,7 @@
 Main.class
 DeviceFirstGenWatcher.class
-DeviceService$1.class
 DeviceService$2.class
 DeviceService.class
 DeviceOutOfBoundsWatcher.class
+utils/CommandLineOptions.class
+DeviceService$1.class
